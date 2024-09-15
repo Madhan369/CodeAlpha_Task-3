@@ -6,14 +6,18 @@ The Simple Stock Trading Platform is a Java-based console application that simul
 
 View Available Stocks:
 - Users can see a list of stocks available in the market along with their symbols, names, and current prices.
+
 Buy Stocks:
 - Users can buy a specified quantity of stocks using their available balance.
 - The application checks if the user has enough funds before making a purchase.
+
 Sell Stocks:
 - Users can sell a specified quantity of stocks from their portfolio.
 - The application ensures that the user has sufficient stock holdings to complete the sale.
+
 View Portfolio:
 - Users can view their current balance and a detailed summary of the stocks they own, including the quantity and the stock’s current price.
+
 Exit Option:
 - Users can exit the application at any time, ending the simulation.
 
